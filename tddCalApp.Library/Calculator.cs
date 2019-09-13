@@ -11,7 +11,7 @@ namespace tddCalApp.Library
         //Function to Add 2 numbers
         public int add(int num1,int num2) 
         {
-            return 0;
+            return num1+num2;
         }
     }
 }
