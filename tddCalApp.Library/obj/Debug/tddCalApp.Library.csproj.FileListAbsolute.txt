@@ -1,0 +1,5 @@
+C:\Users\admin\source\repos\TddCalApp\tddCalApp.Library\bin\Debug\tddCalApp.Library.dll
+C:\Users\admin\source\repos\TddCalApp\tddCalApp.Library\bin\Debug\tddCalApp.Library.pdb
+C:\Users\admin\source\repos\TddCalApp\tddCalApp.Library\obj\Debug\tddCalApp.Library.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TddCalApp\tddCalApp.Library\obj\Debug\tddCalApp.Library.dll
+C:\Users\admin\source\repos\TddCalApp\tddCalApp.Library\obj\Debug\tddCalApp.Library.pdb

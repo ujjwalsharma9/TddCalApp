@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace tddCalApp.Library
 {
-    class Calculator
+    public class Calculator
     {
         //Function to Add 2 numbers
         public int add(int num1,int num2) 
